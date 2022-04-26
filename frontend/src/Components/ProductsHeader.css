@@ -1,0 +1,17 @@
+.productHeadingDiv{
+    width: 100%;
+    height: 200px;
+    background: #2C65DA;
+    mix-blend-mode: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.productHeading{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 76px;
+    color: #FFFFFF;
+}

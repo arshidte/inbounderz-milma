@@ -1,0 +1,32 @@
+.banner{
+    width: 100%;
+    height: 650px;
+    background: #2C65DA;
+}
+.bannerBg{
+    width: 100%;
+    height: 650px;
+    mix-blend-mode: multiply;
+    opacity: 0.3;
+}
+.bannerLogo{
+    position: absolute;
+    width: 162px;
+    height: 166px;
+    left: 46px;
+    top: 44px;
+}
+.bannerImage{
+    position: absolute;
+    width: 477px;
+    height: 561px;
+    left: 267px;
+    top: 89px;
+}
+.bannerHeading{
+    position: absolute;
+    width: 441px;
+    height: 212px;
+    left: 731px;
+    top: 238px;
+}
